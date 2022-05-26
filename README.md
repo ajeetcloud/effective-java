@@ -1,1 +1,3 @@
 # effective-java
+
+Course begins!
