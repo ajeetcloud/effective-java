@@ -1,3 +1,3 @@
 # effective-java
 
-Course begins!
+This course helps developers follow the best practices in java.
